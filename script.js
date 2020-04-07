@@ -208,48 +208,48 @@ const keyArr = [
       en: "/",
     },
     {
-      ru: "UArrow",
-      en: "UArrow",
+      ru: "ArrowUp",
+      en: "ArrowUp",
     },
     {
-      ru: "RShift",
-      en: "RShift",
+      ru: "ShiftRight",
+      en: "ShiftRight",
     },
     {
-      ru: "LControl",
-      en: "LControl",
+      ru: "ControlLeft",
+      en: "ControlLeft",
     },
     {
-      ru: "Win",
-      en: "Win",
+      ru: "Meta",
+      en: "Meta",
     },
     {
-      ru: "LAlt",
-      en: "LAlt",
+      ru: "AltLeft",
+      en: "AltLeft",
     },
     {
       ru: "Space",
       en: "Space",
     },
     {
-      ru: "RAlt",
-      en: "RAlt",
+      ru: "AltRight",
+      en: "AltRight",
     },
     {
-      ru: "LArrow",
-      en: "LArrow",
+      ru: "ArrowLeft",
+      en: "ArrowLeft",
     },
     {
-      ru: "DArrow",
-      en: "DArrow",
+      ru: "ArrowDown",
+      en: "ArrowDown",
     },
     {
-      ru: "RArrow",
-      en: "RArrow",
+      ru: "ArrowRight",
+      en: "ArrowRight",
     },
     {
-      ru: "RControl",
-      en: "RControl",
+      ru: "ControlRight",
+      en: "ControlRight",
     },
   ];
   
