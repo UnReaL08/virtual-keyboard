@@ -164,8 +164,8 @@ const keyArr = [
       en: "Enter",
     },
     {
-      ru: "LShift",
-      en: "LShift",
+      ru: "ShiftLeft",
+      en: "ShiftLeft",
     },
     {
       ru: "я",
